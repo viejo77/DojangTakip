@@ -1,0 +1,6 @@
+{
+  "name": "Dojang Takip — Taekwondo Sporcu ve Yoklama Yönetimi",
+  "description": "Türkiye'deki Taekwondo spor kulüpleri için mobil uyumlu sporcu yönetim, hızlı antrenman yoklaması ve aylık devam-devamsızlık takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
